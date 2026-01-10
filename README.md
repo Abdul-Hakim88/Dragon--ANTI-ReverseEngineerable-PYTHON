@@ -17,8 +17,5 @@ It wraps:
 
  Some antivirus might falsely flag outputs as malware — this is common with heavy protection tools.
 
-##  What’s included
-- Source code (upload your .py files)
-- Binary builds (in Releases)
 
 
